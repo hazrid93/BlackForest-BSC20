@@ -9,3 +9,5 @@ blackforest bsc-20
 ---
 
 📎 **[Architecture & Sequence Diagrams](docs/architecture.md)**
+
+📖 **[DeepWiki](https://app.devin.ai/org/isaiya-9bf81eafd4d3/wiki/hazrid93/BlackForest-BSC20/page/1.1?branch=main)**
